@@ -1,4 +1,5 @@
-prepare
-write
-play
-fix
+pintar
+escrever
+jogar
+cozinhar
+pescar

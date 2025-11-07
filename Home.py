@@ -11,12 +11,12 @@ def add_todo():
         todos.append(todo)
         functions.write_todos(todos)
 
-st.title("My Todo App")
-st.subheader("This is my todo app.")
-st.write("This app is to increase your <b>productivity</b>.",
+st.title("Meu aplicativo de tarefas")
+# st.subheader("Esta é uma interface Streamlit.")
+st.write("Registre coisas importantes e não perca a <b>produtividade:</b>",
          unsafe_allow_html=True)
 
-st.text_input(label="New item", placeholder="Add new todo...",
+st.text_input(label="New item", placeholder="Adicione seus compromissos aqui...",
               on_change=add_todo, key="new_todo", label_visibility="collapsed")
 
 for index, todo in enumerate(todos):
