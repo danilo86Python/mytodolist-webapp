@@ -30,7 +30,7 @@ Uma aplicação funcional de lista de tarefas (**To-Do List**) desenvolvida em *
 ✅ Exibir todas as tarefas atuais na tela  
 ✅ Salvar automaticamente as tarefas no arquivo `todos.txt`  
 ✅ Interface simples, moderna e responsiva utilizando Streamlit  
-✅ Página “Sobre” com informações adicionais sobre o app  
+✅ Página “Sobre” com informações de uso
 
 ---
 
@@ -61,18 +61,18 @@ Um link será gerado no terminal. Clique nele (ou copie e cole no navegador) par
 
 ---
 
-## 👨‍💻 Autor
-
-**Danilo Santos**  
-🔗 [Repositório do Projeto](https://github.com/danilosantos/todo-list-app)  
-🔗 [Perfil no GitHub](https://github.com/danilosantos)
-
----
-
 ## 📄 Licença
 
 Este projeto é de código aberto e pode ser utilizado livremente para fins educacionais e de aprendizado.
 
 ---
 
-✨ *"Organize suas tarefas, simplifique sua rotina!"*
+## 👨‍💻 Autor
+
+**Danilo Santos**  
+🐙 [GitHub](https://github.com/danilo86Python)  
+🌐 [Repositório do Projeto](https://github.com/danilo86Python/mytodolist-webapp.git)
+
+---
+
+⭐ Se este projeto foi útil para você, considere deixar uma estrela no repositório!

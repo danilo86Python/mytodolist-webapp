@@ -2,4 +2,3 @@ pintar
 escrever
 jogar
 cozinhar
-pescar
