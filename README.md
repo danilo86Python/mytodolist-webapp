@@ -17,7 +17,8 @@ Uma aplicação funcional de lista de tarefas (**To-Do List**) desenvolvida em *
 ├── 📄 Home.py — Código principal da interface Streamlit  
 ├── 📄 functions.py — Funções responsáveis por adicionar e salvar tarefas  
 ├── 📄 todos.txt — Arquivo de texto onde as tarefas são armazenadas  
-├── 📄 requirements.txt — Dependências do projeto  
+├── 📄 requirements.txt — Dependências do projeto
+├── 📄 readme.md — Documentação do projeto
 │  
 └── 📂 pages/  
 　　└── 📄 Sobre.py — Página adicional "Sobre" do aplicativo  
